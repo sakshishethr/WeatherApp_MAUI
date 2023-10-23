@@ -53,4 +53,8 @@
 	  <PackageReference Include="Xamarin.Forms" Version="5.0.0.2612" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Services\" />
+	</ItemGroup>
+
 </Project>
